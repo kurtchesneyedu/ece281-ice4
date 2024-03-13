@@ -28,4 +28,4 @@ Assert statements of other severity levels, such as "error" will be reported, bu
 
 ## Correct Testing Waveform
 
-"C:\Users\Kurt.Chesney\LOCAL\ECE281\ece281-ice4\Stoplight Waveform.png"
+![Stoplight Waveform](<Stoplight Waveform-1.png>)
